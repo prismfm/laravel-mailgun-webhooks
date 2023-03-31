@@ -1,5 +1,5 @@
 {
-    "name": "binary-cats/laravel-mailgun-webhooks",
+    "name": "prismfm/laravel-mailgun-webhooks",
     "description": "Handle Mailgun webhooks in a Laravel application",
     "keywords": [
         "binary-cats",
